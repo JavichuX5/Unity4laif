@@ -1,3 +1,3 @@
 # Unity4laif
 
-[Este es el informe del grupo al que pertenezco](./Grupo shuriken)
+[Este es el informe del grupo al que pertenezco](https://github.com/JavichuX5/Unity4laif/blob/master/Grupo%20shuriken)
